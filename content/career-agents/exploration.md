@@ -16,7 +16,7 @@ them in operation. Thankfully, EVE has a video tutorial you can watch in the gam
 Help Section, both Scanning Basics and step by step under Scanning.
 
 You can also look through our [scanning guide](/reference/scanning/) if you prefer a text format. A video
-guide for this chain of missions is at https://www.youtube.com/watch?v=FgdT9P6UCXM
+guide for this chain of misions is at https://www.youtube.com/watch?v=FgdT9P6UCXM
 
 As you complete the chain, you'll earn a couple of new ships (including one
 specifically designed for exploration), some skill books, some modules,
