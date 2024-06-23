@@ -1,5 +1,4 @@
-baseurl = "https://www.thealphasguide.com/"
-title = "The Alpha's Guide to the Galaxy"
+title = "EVE新玩家教程"
 languageCode = "en-us"
 
 theme = "hugo-theme-learn"
