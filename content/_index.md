@@ -7,8 +7,8 @@
   "title": "Introduction"
 }
 
-### <span style="color:#e00;font-weight:bold;font-size:300%;text-shadow:2px 2px #a00;line-height:100%;">DON'T PANIC</span>
+### <span style="color:#e00;font-weight:bold;font-size:300%;text-shadow:2px 2px #a00;line-height:100%;">零基础入门</span>
 
-# The Alpha's Guide to the Galaxy
+# EVE新玩家教程
 
-A guide for alpha-clone players of EVE Online.
+一个从零基础入门的EVE指南
