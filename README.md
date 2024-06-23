@@ -1,10 +1,4 @@
-# The Alpha's Guide to the Galaxy
-
-A guide for alpha-clone players in EVE Online.
-
-The guide ([www.thealphasguide.com](https://www.thealphasguide.com)) is built from
-Markdown content files using the [Hugo](https://gohugo.io) static site generator,
-rendered with a modified version of the [Learn theme](https://matcornic.github.io/hugo-learn-doc/).
-
-Interested in translating the Guide to another language?
-[Here's how.](https://github.com/ayust/alpha-guide/wiki/Translating-the-Guide)
+# 项目拷贝于 https://github.com/ayust/alpha-guide
+# 感谢他们为EVE玩家所做的贡献
+# 我不懂英语，但是很欣赏他们的精神，同时也非常喜欢他们的主题，于是进行了fork，然后内容修改为自己的。
+# 本来想翻译他们的，但是他们的要求不能改动图片，并且只能(不知道能不能新加自己的内容)进行翻译，所以只能自己创建一个了。
