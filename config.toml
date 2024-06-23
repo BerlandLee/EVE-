@@ -1,12 +1,13 @@
+baseurl = "https://github.com/ayust/alpha-guide/blob/master/content/_index.md"
 title = "EVE新玩家教程"
-languageCode = "en-us"
+languageCode = "zh-cn"
 
 theme = "hugo-theme-learn"
 publishdir = "public"
 builddrafts = true
 
 [params]
-  editURL = "https://github.com/ayust/alpha-guide/edit/master/content/"
+  editURL = "https://github.com/BerlandLee/EVE-new_player_course/tree/master/content"
   author = "Aaeriele"
   disableLandingPageButton = true
   disableMermaid = true
